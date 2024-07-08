@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, glad to see you here! 👋
 
-<!--
-**vplvua/vplvua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vasyl Pashko. Frontend Developer, DevOps Enthusiast from Lviv (Ukraine)
 
-Here are some ideas to get you started:
+![Vasyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=vplvua&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/angular-white?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=black&color=%23DD1100)
+
+![Static Badge](https://img.shields.io/badge/ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=%23E95420&labelColor=black&color=%23E95420)
+![Static Badge](https://img.shields.io/badge/gnu%20bash-white?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&labelColor=black&color=%234EAA25)
+![Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=%23EE0000&labelColor=black&color=%23EE0000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vplvua&layout=compact)
+
+## Let's connect!
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvasyl-pashko%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=%23EA4335&link=mailto%3Avasyl.pashko%40gmail.com)
+![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fvasyl_pashko&link=https%3A%2F%2Ft.me%2Fvasyl_pashko)
