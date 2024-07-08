@@ -24,3 +24,6 @@ I'm Vasyl Pashko. Frontend Developer, DevOps Enthusiast from Lviv (Ukraine)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvasyl-pashko%2F)
 ![Static Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=%23EA4335&link=mailto%3Avasyl.pashko%40gmail.com)
 ![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fvasyl_pashko&link=https%3A%2F%2Ft.me%2Fvasyl_pashko)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=flat&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvasyl-pashko%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvasyl-pashko%2F"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fvasyl_pashko&link=https%3A%2F%2Ft.me%2Fvasyl_pashko">
+
