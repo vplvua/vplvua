@@ -2,8 +2,6 @@
 
 I'm Vasyl Pashko. Frontend Developer, DevOps Enthusiast from Lviv (Ukraine)
 
-![Vasyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=vplvua&show_icons=true&theme=transparent)
-
 ## Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
